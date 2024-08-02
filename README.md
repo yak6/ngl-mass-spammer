@@ -9,5 +9,5 @@ User check is a second script that can be used to check if a user exists. Simply
 ![obraz](https://github.com/user-attachments/assets/0432a6a2-4585-4c1c-8662-479aa4246bfc)
 # Mass Spammer
 Mass spammer uses the *requests* library to send messages. Input users, words in .txt file and you're ready to go! 
-![obraz](https://github.com/user-attachments/assets/091ce643-d9e1-43d0-a7b6-018e35cdb840)
 
+![obraz](https://github.com/user-attachments/assets/091ce643-d9e1-43d0-a7b6-018e35cdb840)
