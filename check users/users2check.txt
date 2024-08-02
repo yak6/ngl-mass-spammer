@@ -1,0 +1,14 @@
+simply
+put
+users
+to
+check
+if
+they
+exist
+line
+by
+line.
+Then
+run
+check.py
